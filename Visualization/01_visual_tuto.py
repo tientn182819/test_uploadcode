@@ -7,3 +7,5 @@ fig = plt.figure()
 ax = plt.axes([0.2, 0.2, 1, 1])
 ax = plt.axes([0, 1.2, 1, 1])
 
+#Viêt sthem emaayscasi lung tung để  test 
+
